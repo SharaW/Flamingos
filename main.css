@@ -1,0 +1,25 @@
+.flamingos {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flamingos img {
+    width: 50vw;
+    height: 100%;
+}
+
+.text-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text-wrapper > .about-flamingos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
